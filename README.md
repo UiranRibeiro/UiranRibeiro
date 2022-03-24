@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Front-end, UI/UX Design 
 - 📫 Contate-me no email: uiranurf@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <br> 
 <div align = center>
