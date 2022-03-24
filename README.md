@@ -1,9 +1,10 @@
-### Hi there �
+ <h2>Hi there</h2> 
 
-- 🌱 Estudando Front-end UI/UX Design 
+- 🌱 Estudando Front-end, UI/UX Design 
 - 📫 Contate-me no email: uiranurf@gmail.com
 - 😄 Pronouns: ele/dele
-- 
+
+<br> 
 <div align = center>
   
 <a href="https://github.com/UiranRibeiro">
@@ -13,6 +14,8 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UiranRibeiro&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
+  
+  <h2>My Skills</h2>
   
 <div style = "display:inline-block"><br>
    
